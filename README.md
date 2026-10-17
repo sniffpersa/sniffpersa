@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="sniffetico" width="100%">
+  <img src="banner.svg" alt="sniffetico" width="70%">
 </p>
 
 <p align="center">
