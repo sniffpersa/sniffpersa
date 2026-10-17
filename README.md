@@ -69,36 +69,6 @@ Current interests include offensive security in authorized environments, reverse
 
 ---
 
-## `featured_projects`
-
-### [SNIFF — Cookie Checker](https://github.com/USERNAME/sniff)
-
-**Python · Multi-format session-data triage**
-
-A tool in development for parsing and organizing session-related data from supported export formats.
-
-**Current project scope**
-- Parse data from HAR, TXT, and JSON files.
-- Organize records for review and triage.
-- Support repeatable analysis workflows.
-- Explore automation for security-log and investigation workflows.
-
-**Engineering priorities**
-- Clear input validation and useful error messages.
-- Modular parsing and a maintainable codebase.
-- Test fixtures using synthetic or sanitized data.
-- Documentation of supported formats, limitations, and expected output.
-- Safe handling of sensitive data and explicit authorization boundaries.
-
-**Roadmap**
-- [ ] Document installation, usage, and supported input schemas.
-- [ ] Add tests for valid, malformed, and edge-case inputs.
-- [ ] Improve structured output and reporting.
-- [ ] Add examples based on synthetic data.
-- [ ] Document security considerations and known limitations.
-
-> Use only with data you own or are explicitly authorized to analyze. Do not use the project to access accounts, replay sessions, or validate credentials without permission.
-
 ---
 
 ## `research_notes`
