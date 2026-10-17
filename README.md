@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="sniffetico — security research and engineering" width="100%">
+  <img src="banner.svg" alt="sniffetico" width="100%">
 </p>
 
 <p align="center">
